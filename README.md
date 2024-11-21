@@ -1,4 +1,5 @@
 SUPERMART ANALYSIS
+
 This project demonstrates the use of SQL for data analysis and manipulation within a PostgreSQL database. Key objectives included data exploration, aggregation, and advanced querying techniques to extract meaningful insights. The tasks were designed to handle real-world scenarios, focusing on sales, customer behavior, and profitability.
 1.Data Aggregation and Analysis:
 Calculated total, average, and percentage-based metrics for sales and profit across various dimensions like region, segment, and product.
