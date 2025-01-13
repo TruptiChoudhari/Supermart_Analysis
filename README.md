@@ -24,4 +24,3 @@ Converted data types for numerical precision, ensuring calculation consistency (
 Grouped data and applied filters using GROUP BY, HAVING, and ORDER BY for efficient query execution.
 
 
-
