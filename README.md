@@ -4,7 +4,7 @@ This project demonstrates the use of SQL for data analysis and manipulation with
 1. Data Aggregation and Analysis:
 Calculated total, average, and percentage-based metrics for sales and profit across various dimensions like region, segment, and product.
 
-2 .Window Functions:
+2 . Window Functions:
 Implemented ROW_NUMBER(), RANK(), and DENSE_RANK() to rank sales and customers based on performance.
 Used SUM() and AVG() window functions for running totals and moving averages.
 
